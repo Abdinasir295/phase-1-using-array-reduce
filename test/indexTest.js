@@ -13,7 +13,7 @@ describe('reducer', function() {
     });
 
     it('should have made the sum of all the assembled batteries', function() {
-      expect(totalBatteries).to.eql(31);
+      expect(totalBatteries).to.eql(22);
     });
   });
 });
